@@ -34,7 +34,6 @@
     "devDependencies": {
         "@0x/ts-doc-gen": "^0.0.22",
         "@0x/tslint-config": "^4.1.0",
-        "@types/node": "12.12.54",
         "make-promises-safe": "^1.1.0",
         "shx": "^0.2.2",
         "tslint": "5.11.0",
@@ -42,6 +41,7 @@
         "typescript": "3.0.1"
     },
     "dependencies": {
+        "@types/node": "12.12.54",
         "bignumber.js": "~9.0.0"
     },
     "publishConfig": {
